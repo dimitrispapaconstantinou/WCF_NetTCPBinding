@@ -1,0 +1,14 @@
+C:\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\bin\Debug\_Wcf_Library_dll.dll.config
+C:\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\bin\Debug\_Wcf_Library_dll.dll
+C:\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\bin\Debug\_Wcf_Library_dll.pdb
+C:\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\obj\Debug\_Wcf_Library_dll.csprojResolveAssemblyReference.cache
+C:\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\obj\Debug\_Wcf_Library_dll.csproj.CoreCompileInputs.cache
+C:\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\obj\Debug\_Wcf_Library_dll.dll
+C:\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\obj\Debug\_Wcf_Library_dll.pdb
+\\10.0.0.70\c\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\bin\Debug\_Wcf_Library_dll.dll.config
+\\10.0.0.70\c\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\bin\Debug\_Wcf_Library_dll.dll
+\\10.0.0.70\c\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\bin\Debug\_Wcf_Library_dll.pdb
+\\10.0.0.70\c\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\obj\Debug\_Wcf_Library_dll.csprojResolveAssemblyReference.cache
+\\10.0.0.70\c\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\obj\Debug\_Wcf_Library_dll.csproj.CoreCompileInputs.cache
+\\10.0.0.70\c\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\obj\Debug\_Wcf_Library_dll.dll
+\\10.0.0.70\c\sourceCode\____to be deleted\_Wcf_Library_dll\_Wcf_Library_dll\obj\Debug\_Wcf_Library_dll.pdb
