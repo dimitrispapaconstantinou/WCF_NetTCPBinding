@@ -47,10 +47,15 @@ MAKE SURE THAT THE Net.Tcp Port Sharing, the Net.Tcp Listener Adapter and the Ne
 
 
 References and Resources
+
 https://sites.google.com/site/wcfpandu/configuring-wcf-service-with-nettcpbinding
+
 https://www.codeproject.com/Articles/29243/A-Windows-Communication-Foundation-WCF-Overview
 
 
+http://realfiction.net/2008/01/30/The-no-frills-bare-bones-example-to-Duplex-WCF//
+
+https://derekwill.com/2015/05/11/building-duplex-services-with-wcf/
 
 
 
