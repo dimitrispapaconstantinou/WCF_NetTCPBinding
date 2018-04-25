@@ -9,10 +9,11 @@ Setup:
 3. Windows Forms application. (“_WCF_DesktopClient”)
 
 
-Dataflow
-When the desktop app starts it sends a message to the web site “ Hello , I am ready to accepts messages from you”  
+Dataflow:
+
+When the desktop app starts it sends a message to the web site “ Hello , I am ready to accept messages from you”  
  
-The web site creates a txt file in c:\temp\MessageFromWebSite.txt that verifies that a client has connected (change the path if you like
+The web site creates a txt file in c:\temp\MessageFromWebSite.txt that verifies that a client has connected (change the path if you like)
 
 When a specific page is accessed in the web site –
 http://<your local IP>/Testnettcp/send_to_client.aspx -  then a message from the web site is sent to the app when the button is clicked
